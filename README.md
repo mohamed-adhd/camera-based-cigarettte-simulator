@@ -49,19 +49,8 @@ The result is an interactive visual prototype where opening your hand advances t
 
 ## Demo Video
 
-> Demo video placeholder: add the gameplay/camera demo link or GitHub uploaded video here.
+> i'll manage to find time to record a demo of me using it  :p
 
-```md
-https://github.com/user-attachments/assets/your-demo-video-id
-```
-
-## Preview Space
-
-Add a screenshot or GIF here:
-
-```md
-<img width="900" alt="Gesture-Controlled Cigarette Simulator preview" src="YOUR_SCREENSHOT_URL_HERE" />
-```
 
 ## Features
 
